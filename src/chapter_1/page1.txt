@@ -1,0 +1,6 @@
+This is the start of my book
+Page one will help us get started
+
+Java is cool
+
+Can my code be without any syntax errors please.
