@@ -3,3 +3,5 @@ The task is to add some text
 do the changes to it
 
 commit
+
+Changes added
